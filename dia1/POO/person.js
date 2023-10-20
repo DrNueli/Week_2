@@ -1,6 +1,7 @@
 
 class Person {
-    constructor(altura, peso, colorPelo, genero, yearOfBirth, hobbies){ // todos los atributos, tienen que estar metidos aqui como parametros del constructor??
+    constructor(altura, peso, colorPelo, genero, yearOfBirth, hobbies){ 
+        // todos los atributos, tienen que estar metidos aqui como parametros del constructor??
     this.altura = altura;
     this.peso = peso;
     this.colorPelo = colorPelo;
