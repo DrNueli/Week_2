@@ -1,5 +1,5 @@
 
-import { Person } from "./person.js"; // por que no deja poner .ts??
+import { Person } from "./person.js";
 
 let Persona1 = new Person ("Manu", 1989, "Cartagena");
 let address = Persona1.getAddress();

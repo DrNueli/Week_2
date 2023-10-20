@@ -1,6 +1,6 @@
 // RETO 9
 
-import { Vector } from "./vector.ts";
+import { Vector } from "./vector";
 
 let v = new Vector(5, 10);
 v.print();
